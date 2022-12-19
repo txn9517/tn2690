@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Tom!
-- 👀 My Java, Python, and SQL code can be found here!
+- 👀 My C# MVC projects can be viewed here!
 - Thanks for visiting! 
 
 
